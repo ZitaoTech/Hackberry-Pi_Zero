@@ -15,3 +15,4 @@ How to enable [mouse](https://www.youtube.com/watch?v=hycfIoGggjw&ab_channel=Ric
 ```shell
 sudo apt install gpm
 ```
+coding remote on [VSCODE[(https://randomnerdtutorials.com/raspberry-pi-remote-ssh-vs-code/)
