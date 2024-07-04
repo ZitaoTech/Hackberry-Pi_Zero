@@ -16,3 +16,5 @@ How to enable [mouse](https://www.youtube.com/watch?v=hycfIoGggjw&ab_channel=Ric
 sudo apt install gpm
 ```
 coding remote on [VSCODE](https://randomnerdtutorials.com/raspberry-pi-remote-ssh-vs-code/)
+
+How to change font size in [terminal](https://askubuntu.com/questions/173220/how-do-i-change-the-font-or-the-font-size-in-the-tty-console)
