@@ -10,7 +10,7 @@ Here are some **main Features:**
 **Dual Swapable battery Design**: Replace your battery in 10 seconds without killing the power!  
 **Battery type**: Nokia BL-5C. You can buy it anywhere in the world.  
 **Battery life**: In my test: 3.5 hours with desktop, 5 hours with commandline.  
-**Keyboard Mouse Combo**: Yes, this cyberdeck has keyboard and mouse combo on board. The keyboard can be blackberry Q10 or Q20 keyboard.  
+**Keyboard Mouse Combo**: Yes, this cyberdeck has keyboard and mouse combo on board. You can choose blackberry Q10 or Q20 keyboard.  
 **fully customizable keymap**: You can connect the keyboard with a computer and customizable the keymap through [VIAL](https://get.vial.today/) easily.  
 **3 USB2.0 Ports**: This handheld has 3 USB2.0 Ports, you can use it with USB-Stick or 4G Modul Dongle or any USB thing.  
 **Charging Ampere**: 1A charging ampere, this handheld can be fully charged within 3 hours.  
