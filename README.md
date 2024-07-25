@@ -11,12 +11,16 @@ Here are some **main Features:**
 **Battery type**: Nokia BL-5C. You can buy it anywhere in the world.  
 **Battery life**: In my test: 3.5 hours with desktop, 5 hours with commandline.  
 **Keyboard Mouse Combo**: Yes, this cyberdeck has keyboard and mouse combo on board. You can choose blackberry Q10 or Q20 keyboard.  
-**fully customizable keymap**: You can connect the keyboard with a computer and customizable the keymap through [VIAL](https://get.vial.today/) easily.  
+**Fully customizable keymap**: You can connect the keyboard with a computer and customizable the keymap through [VIAL](https://get.vial.today/) easily.  
 **3 USB2.0 Ports**: This handheld has 3 USB2.0 Ports, you can use it with USB-Stick or 4G Modul Dongle or any USB thing.  
 **Charging Ampere**: 1A charging ampere, this handheld can be fully charged within 3 hours.  
 **Stemma I2C Port**: This device has a stemma I2C port on board, you can connect with any I2C sensors.  
 **TF card Slot**: There is an external TF card Slot. You can replace your OS image very easily.  
 # <a name='Get started  '>Get started   </a>
+
+# <a name='Keyboard  '>Keyboard   </a>
+
+# <a name='different Operating System  '>different Operating System   </a>
 
 虚拟环境pip
 [tiptop](https://github.com/nschloe/tiptop)+[recn](https://stackoverflow.com/questions/75602063/pip-install-r-requirements-txt-is-failing-this-environment-is-externally-mana)  
