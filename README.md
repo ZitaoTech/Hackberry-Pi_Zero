@@ -20,7 +20,7 @@ Here are some **main Features:**
 
 # <a name='Keyboard  '>Keyboard   </a>
 
-# <a name='different Operating System  '>different Operating System   </a>
+# <a name='Different Operating System  '>Different Operating System   </a>
 
 虚拟环境pip
 [tiptop](https://github.com/nschloe/tiptop)+[recn](https://stackoverflow.com/questions/75602063/pip-install-r-requirements-txt-is-failing-this-environment-is-externally-mana)  
