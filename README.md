@@ -4,7 +4,7 @@ A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4' 720X720 TFT
 # <a name='About this handheld  '>About this handheld   </a>
 The main reason why I design and build this handheld cyberdeck is to treat this as a lernning tool and also a funny toy for the hackers. It is powered by a raspberry pi zero 2w and a 4' 720X720 TFT display. 
 
-Here are some **main Features:**
+Here are some **main Features:**  
 **Main Processor**: Only compaticable with Raspberry pi zero 2w.  
 **Display**: 4' 720X720 high resolution TFT display.
 **Dual Swapable battery Design**: Replace your battery in 10 seconds without killing the power!  
