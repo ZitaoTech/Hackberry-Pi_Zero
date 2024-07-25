@@ -1,7 +1,7 @@
 # Hackberry-Pi_Zero
 A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4' 720X720 TFT display
 ## [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
-
+# <a name='About this handheld  '>About this handheld   </a>
 虚拟环境pip
 [tiptop](https://github.com/nschloe/tiptop)+[recn](https://stackoverflow.com/questions/75602063/pip-install-r-requirements-txt-is-failing-this-environment-is-externally-mana)  
 [TUI](https://terminaltrove.com/new/) apps in Terminal:  
