@@ -16,6 +16,8 @@ Here are some **main Features:**
 **Charging Ampere**: 1A charging ampere, this handheld can be fully charged within 3 hours.  
 **Stemma I2C Port**: This device has a stemma I2C port on board, you can connect with any I2C sensors.  
 **TF card Slot**: There is an external TF card Slot. You can replace your OS image very easily.  
+# <a name='Get started  '>Get started   </a>
+
 虚拟环境pip
 [tiptop](https://github.com/nschloe/tiptop)+[recn](https://stackoverflow.com/questions/75602063/pip-install-r-requirements-txt-is-failing-this-environment-is-externally-mana)  
 [TUI](https://terminaltrove.com/new/) apps in Terminal:  
