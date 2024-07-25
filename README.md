@@ -2,6 +2,20 @@
 A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4' 720X720 TFT display
 ## [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 # <a name='About this handheld  '>About this handheld   </a>
+The main reason why I design and build this handheld cyberdeck is to treat this as a lernning tool and also a funny toy for the hackers. It is powered by a raspberry pi zero 2w and a 4' 720X720 TFT display. 
+
+Here are some **main Features:**
+**Main Processor**: Only compaticable with Raspberry pi zero 2w.  
+**Display**: 4' 720X720 high resolution TFT display.
+**Dual Swapable battery Design**: Replace your battery in 10 seconds without killing the power!  
+**Battery type**: Nokia BL-5C. You can buy it anywhere in the world.  
+**Battery life**: In my test: 3.5 hours with desktop, 5 hours with commandline.  
+**Keyboard Mouse Combo**: Yes, this cyberdeck has keyboard and mouse combo on board. The keyboard can be blackberry Q10 or Q20 keyboard.  
+**fully customizable keymap**: You can connect the keyboard with a computer and customizable the keymap through [VIAL](https://get.vial.today/) easily.  
+**3 USB2.0 Ports**: This handheld has 3 USB2.0 Ports, you can use it with USB-Stick or 4G Modul Dongle or any USB thing.  
+**Charging Ampere**: 1A charging ampere, this handheld can be fully charged within 3 hours.  
+**Stemma I2C Port**: This device has a stemma I2C port on board, you can connect with any I2C sensors.  
+**TF card Slot**: There is an external TF card Slot. You can replace your OS image very easily.  
 虚拟环境pip
 [tiptop](https://github.com/nschloe/tiptop)+[recn](https://stackoverflow.com/questions/75602063/pip-install-r-requirements-txt-is-failing-this-environment-is-externally-mana)  
 [TUI](https://terminaltrove.com/new/) apps in Terminal:  
