@@ -6,7 +6,7 @@ The main reason why I design and build this handheld cyberdeck is to treat this 
 
 Here are some **main Features:**  
 **Main Processor**: Only compaticable with Raspberry pi zero 2w.  
-**Display**: 4' 720X720 high resolution TFT display.
+**Display**: 4' 720X720 high resolution TFT display.  
 **Dual Swapable battery Design**: Replace your battery in 10 seconds without killing the power!  
 **Battery type**: Nokia BL-5C. You can buy it anywhere in the world.  
 **Battery life**: In my test: 3.5 hours with desktop, 5 hours with commandline.  
