@@ -30,6 +30,12 @@ Turn the red switch to the **right position** and then press the **red button** 
 The keyboard type is blackberry Q10 or Q20 keyboard. Both have the same keyboard layout.  
 There is a red switch on the left side to decide if the keyboard controller communicates with the HackberryPi or with other device through the USBC-Port underneath.  
 The idea about this is you can connect the keyboard with your computer and customize the keymap using [VIAL](https://get.vial.today/) or the handheld can be used as an emergency keyboard mouse combo.  
+![keyboard](https://github.com/user-attachments/assets/63ac5772-f248-4117-bd29-ae0b3058e1e4)
+###How to change the keymap?  
+Put the red switch to the lower position, connect the keyboard with your computer, open (VIAL page)[https://vial.rocks/], then you can customize the keymap yourself.  
+![image](https://github.com/user-attachments/assets/7c4e9b53-7a00-4cdd-b0b7-751647f76f6b)
+
+
 # <a name='Different Operating System  '>Different Operating System   </a>
 
 # <a name='Basic Tutorial  '>Basic Tutorial   </a>
