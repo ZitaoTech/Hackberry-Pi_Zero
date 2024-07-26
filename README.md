@@ -18,7 +18,8 @@ Here are some **main Features:**
 **TF card Slot**: There is an external TF card Slot. You can replace your OS image very easily.  
 
 ## Block Diagram
-![Uploading Blockdiagramm_HackberryPi_Zero.png…]()
+![Blockdiagramm_HackberryPi_Zero](https://github.com/user-attachments/assets/e46c354c-9363-41e2-b276-73ba5900a178)
+
 
 # <a name='Get started  '>Get started   </a>
 
