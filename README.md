@@ -1,5 +1,8 @@
 # Hackberry-Pi_Zero
 A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4' 720X720 TFT display
+![PIC1](https://github.com/user-attachments/assets/5038ae93-bd02-41cb-a2df-9c7afeaa57e3)
+![PIC2](https://github.com/user-attachments/assets/19b1a504-f155-4f84-992f-cf4c463f5743)  
+
 ### [Questions or need more info? Join my Discord Channel!](https://discord.gg/WzPthAmMbP)  
 # <a name='About this handheld  '>About this handheld   </a>
 The main reason why I design and build this handheld cyberdeck is to treat this as a lernning tool and also a funny toy for the hackers. It is powered by a raspberry pi zero 2w and a 4' 720X720 TFT display. 
