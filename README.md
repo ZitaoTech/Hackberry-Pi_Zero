@@ -24,6 +24,7 @@ Here are some **main Features:**
 # <a name='Get started  '>Get started   </a>
 ### How to turn on the HackberryPi?  
 Turn the red switch to the **right position** and then press the **red button** to the left side of the red switch to power the USB Hub Controller Chip otherse the keyboard **can't be used!** At the same time the indicator for the battery voltage will be turned on.    
+![Turnon](https://github.com/user-attachments/assets/9e333c90-5131-4404-85bd-e2c72a7e1bd3)  
 ![turnon](https://github.com/ZitaoTech/Hackberry-Pi_Zero/blob/main/Picture/Turnon.gif)
 # <a name='Keyboard  '>Keyboard   </a>
 
