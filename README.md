@@ -22,8 +22,8 @@ Here are some **main Features:**
 
 
 # <a name='Get started  '>Get started   </a>
-How to turn on the HackberryPi?  
-Turn the red switch to the **right position** and then press the **red button** to the left side of the red switch to power the USB Hub Controller Chip otherse the keyboard **can't be used!**  
+### How to turn on the HackberryPi?  
+Turn the red switch to the **right position** and then press the **red button** to the left side of the red switch to power the USB Hub Controller Chip otherse the keyboard **can't be used!** At the same time the indicator for the battery voltage will be turned on.    
 
 # <a name='Keyboard  '>Keyboard   </a>
 
