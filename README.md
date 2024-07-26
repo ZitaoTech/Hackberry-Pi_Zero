@@ -30,6 +30,7 @@ Turn the red switch to the **right position** and then press the **red button** 
 
 # <a name='Different Operating System  '>Different Operating System   </a>
 
+# <a name='Basic Tutorial  '>Basic Tutorial   </a>
 虚拟环境pip
 [tiptop](https://github.com/nschloe/tiptop)+[recn](https://stackoverflow.com/questions/75602063/pip-install-r-requirements-txt-is-failing-this-environment-is-externally-mana)  
 [TUI](https://terminaltrove.com/new/) apps in Terminal:  
