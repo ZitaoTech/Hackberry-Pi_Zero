@@ -17,7 +17,7 @@ Here are some **main Features:**
 **Stemma I2C Port**: This device has a stemma I2C port on board, you can connect with any I2C sensors.  
 **TF card Slot**: There is an external TF card Slot. You can replace your OS image very easily.  
 
-*Block Diagram*
+## Block Diagram
 # <a name='Get started  '>Get started   </a>
 
 # <a name='Keyboard  '>Keyboard   </a>
