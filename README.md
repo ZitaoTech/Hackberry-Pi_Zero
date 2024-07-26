@@ -37,7 +37,7 @@ Put the red switch to the lower position, connect the keyboard with your compute
 
 
 # <a name='Different Operating System  '>Different Operating System   </a>
-
+You can install Kali, Raspberrypi OS, or Retropi and many other OS into HackberryPi.
 # <a name='Basic Tutorial  '>Basic Tutorial   </a>
 虚拟环境pip
 [tiptop](https://github.com/nschloe/tiptop)+[recn](https://stackoverflow.com/questions/75602063/pip-install-r-requirements-txt-is-failing-this-environment-is-externally-mana)  
