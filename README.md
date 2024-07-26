@@ -27,7 +27,9 @@ Turn the red switch to the **right position** and then press the **red button** 
 ![Turnon](https://github.com/user-attachments/assets/9e333c90-5131-4404-85bd-e2c72a7e1bd3)  
 ![turnon](https://github.com/ZitaoTech/Hackberry-Pi_Zero/blob/main/Picture/Turnon.gif)
 # <a name='Keyboard  '>Keyboard   </a>
-
+The keyboard type is blackberry Q10 or Q20 keyboard. Both have the same keyboard layout.  
+There is a red switch on the left side to decide if the keyboard controller communicates with the HackberryPi or with other device through the USBC-Port underneath.  
+The idea about this is you can connect the keyboard with your computer and customize the keymap using [VIAL](https://get.vial.today/) or the handheld can be used as an emergency keyboard mouse combo.  
 # <a name='Different Operating System  '>Different Operating System   </a>
 
 # <a name='Basic Tutorial  '>Basic Tutorial   </a>
