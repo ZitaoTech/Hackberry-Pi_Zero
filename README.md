@@ -16,6 +16,8 @@ Here are some **main Features:**
 **Charging Ampere**: 1A charging ampere, this handheld can be fully charged within 3 hours.  
 **Stemma I2C Port**: This device has a stemma I2C port on board, you can connect with any I2C sensors.  
 **TF card Slot**: There is an external TF card Slot. You can replace your OS image very easily.  
+
+*Block Diagram*
 # <a name='Get started  '>Get started   </a>
 
 # <a name='Keyboard  '>Keyboard   </a>
