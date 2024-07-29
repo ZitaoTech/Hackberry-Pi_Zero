@@ -51,4 +51,4 @@ I will recommend
 tty-clock -c -s
 ```
 to make it show in the middle of the display and show seconds  
-[tty-clock user manuel](https://github.com/xorg62/tty-clock)
+[tty-clock user manual](https://github.com/xorg62/tty-clock)
