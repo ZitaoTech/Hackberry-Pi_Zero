@@ -1,5 +1,5 @@
 # This page will tell you the ways to install the display driver in different operating system  
-
+### First you need to install the operating system you need into RaspberryPi, this is the [tutorial](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 # Raspberry Pi OS  
 
 Add the following line in `/boot/config.txt` in your TF card  
