@@ -37,7 +37,7 @@ And the `config.txt` file will look like this:
 Download the `hyperpixel4.dtbo`file in this github page   
 Put the `hyperpixel4.dtbo`file into `/boot/overlays`folder  
 Now you can insert the TF card in to the slot and your HackberryPi will run Kali Linux on the screen.  
-
+![Kalilinux Foto](https://github.com/user-attachments/assets/59792d53-11be-4482-83eb-5bd8ca7a9110)
 # RetroPi OS  
 ### Step 1  
 Add the following lines in `/boot/config.txt` in your TF card  
