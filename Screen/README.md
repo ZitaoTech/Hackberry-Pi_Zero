@@ -2,4 +2,4 @@
 
 # Raspberry Pi OS  
 
-Add the following line in '/boot/config.txt'
+Add the following line in `/boot/config.txt`
