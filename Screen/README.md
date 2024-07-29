@@ -58,3 +58,4 @@ And the `config.txt` file will look like this:
 Download the `hyperpixel4.dtbo`file in this github page   
 Put the `hyperpixel4.dtbo`file into `/boot/overlays`folder  
 Now you can insert the TF card in to the slot and your HackberryPi will run RetroPi OS on the screen.  
+![RetroPiFoto](https://github.com/user-attachments/assets/8cc5cef6-7c7e-4d3f-ad7a-3357ff6c9ce3)
