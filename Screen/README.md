@@ -34,5 +34,5 @@ And the `config.txt` file will look like this:
 ![image](https://github.com/user-attachments/assets/eb698c68-0dce-4346-9013-562dcafa3381)
 
 ### Step 2  
-put the `hyperpixel4.dtbo` into `/boot/overlays`  
+put the `hyperpixel4.dtbo` into `/boot/overlays`folder  
 Now you can insert the TF card in to the slot and your HackberryPi will run Kali Linux on the screen.  
