@@ -31,3 +31,4 @@ Then you can run it by typing
 ```sh
 cmatrix
 ```
+[cmatrix Github page](https://github.com/abishekvashok/cmatrix)
