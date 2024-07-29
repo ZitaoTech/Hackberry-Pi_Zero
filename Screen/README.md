@@ -13,6 +13,7 @@ Now you can insert the TF card in to the slot and your HackberryPi will run Rasp
 
 # Kali Linux    
 
+### Step 1  
 Add the following lines in `/boot/config.txt` in your TF card  
 
 ```sh
@@ -29,3 +30,6 @@ dpi_mode=87
 dpi_output_format=0x5f026
 dpi_timings=720 0 20 20 40 720 0 15 15 15 0 0 0 60 0 36720000 4
 ```
+### Step 2  
+put the `hyperpixel4.dtbo` into `/boot/overlays`  
+Now you can insert the TF card in to the slot and your HackberryPi will run Kali Linux on the screen.  
