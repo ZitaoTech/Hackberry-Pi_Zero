@@ -44,3 +44,6 @@ You can install Kali, Raspberrypi OS, or Retropi and many other OS into Hackberr
 # <a name='Basic Tutorial  '>Basic Tutorial   </a>
 How to change font size in [terminal](https://askubuntu.com/questions/173220/how-do-i-change-the-font-or-the-font-size-in-the-tty-console)
 
+# <a name='Where to buy  '>Where to buy   </a>
+[BBQ10 keyboard version](https://www.tindie.com/products/zitaotech/hackberrypi-cyberdeck-handheld-with-bbq10-keyboard/)
+[BBQ20 keyboard version](https://www.tindie.com/products/zitaotech/hackberrypi-cyberdeck-handheld-with-bbq20-keyboard/)
