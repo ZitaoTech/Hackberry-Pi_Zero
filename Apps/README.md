@@ -7,7 +7,7 @@ sudo apt-get install gpm
 ```
 Then you can use mouse in commandline
 
-## How to install a terminal web surfer
+## How to install a terminal web browser
 
 ```sh
 sudo apt-get install w3m-image
