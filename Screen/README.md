@@ -51,7 +51,7 @@ dpi_output_format=0x5f026
 dpi_timings=720 0 20 20 40 720 0 15 15 15 0 0 0 60 0 36720000 4
 ```
 And the `config.txt` file will look like this:  
-![image](https://github.com/user-attachments/assets/2a4445e8-589b-4af5-84a0-1275de28d122)
+![image](https://github.com/user-attachments/assets/40c5440e-34c2-45ca-aa42-7911d98e7115)
 
 ### Step 2  
 Download the `hyperpixel4.dtbo`file in this github page   
