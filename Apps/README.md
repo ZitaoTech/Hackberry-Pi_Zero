@@ -6,3 +6,15 @@
 sudo apt-get install gpm
 ```
 Then you can use mouse in commandline
+
+## How to install a terminal web surfer
+
+```sh
+sudo apt-get install w3m-image
+```
+
+Then you can surf the internet with commands like
+
+```sh
+w3m google.com
+```
