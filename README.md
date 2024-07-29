@@ -24,7 +24,8 @@ Here are some **main Features:**
 ![Blockdiagramm_HackberryPi_Zero](https://github.com/user-attachments/assets/e46c354c-9363-41e2-b276-73ba5900a178)
 
 
-# <a name='Get started  '>Get started   </a>
+# <a name='Get started  '>Get started   </a>  
+### (Introductionvideo)[https://www.youtube.com/watch?v=HDEBzaB1IcY&ab_channel=ZitaoTech]
 ### How to turn on the HackberryPi?  
 Turn the red switch to the **right position** and then press the **red button** to the left side of the red switch to power the USB Hub Controller Chip otherse the keyboard **can't be used!** At the same time the indicator for the battery voltage will be turned on.    
 ![Turnon](https://github.com/user-attachments/assets/9e333c90-5131-4404-85bd-e2c72a7e1bd3)  
