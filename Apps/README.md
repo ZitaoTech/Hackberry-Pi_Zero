@@ -18,3 +18,4 @@ Then you can surf the internet with commands like
 ```sh
 w3m google.com
 ```
+[w3m user mannuel](https://w3m.sourceforge.net/MANUAL)
