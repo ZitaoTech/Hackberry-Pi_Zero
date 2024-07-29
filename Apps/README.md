@@ -32,3 +32,23 @@ Then you can run it by typing
 cmatrix
 ```
 [cmatrix Github page](https://github.com/abishekvashok/cmatrix)
+
+## How to install a TTY-CLOCK
+
+```sh
+sudo apt-get install tty-clock
+```
+
+Then you can run it by typing
+
+```sh
+tty-clock
+```
+
+I will recommend
+
+```sh
+tty-clock -c -s
+```
+to make it show in the middle of the display and show seconds  
+[tty-clock user manuel[(https://github.com/xorg62/tty-clock)
