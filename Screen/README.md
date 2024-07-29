@@ -14,7 +14,7 @@ Now you can insert the TF card in to the slot and your HackberryPi will run Rasp
 Add the following lines in `/boot/config.txt` in your TF card  
 
 `dtoverlay=hyperpixel4`  
-overscan_left=0`  
+`overscan_left=0`  
 
 overscan_right=0  
 
