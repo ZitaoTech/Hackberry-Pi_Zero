@@ -1,6 +1,6 @@
 # This page will tell you the ways to install the display driver in different operating system  
 ### First you need to install the operating system you need into RaspberryPi, this is the [tutorial](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system), when you choose device, select Raspberry Pi Zero 2W.
-# Raspberry Pi OS  
+# Raspberry Pi OS after 04/04/2022 or later  
 
 Add the following line in `/boot/config.txt` in your TF card  
 
@@ -12,7 +12,7 @@ And the `config.txt` file will look like this:
 Now you can insert the TF card in to the slot and your HackberryPi will run Raspberry Pi OS on the screen.  
 ![RaspberryPiOSfoto](https://github.com/user-attachments/assets/faff7b6f-a20e-45b8-801a-6f6dfe51b122)
 
-# Kali Linux    
+# Kali Linux or Raspberry Pi OS before 04/04/2022   
 
 ### Step 1  
 Add the following lines in `/boot/config.txt` in your TF card  
