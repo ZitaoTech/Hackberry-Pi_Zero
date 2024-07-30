@@ -1,4 +1,4 @@
-### This page will show you some recommended apps to use with HackberryPi
+### This page will show you some recommended apps to use with HackberryPi. This page will keep updating
 
 ## How to use mouse in commandline
 
