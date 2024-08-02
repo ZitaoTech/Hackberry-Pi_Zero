@@ -1,5 +1,11 @@
 # This page will tell you the ways to install the display driver in different operating system  
-### First you need to install the operating system you need into RaspberryPi, this is the [tutorial](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system), when you choose device, select Raspberry Pi Zero 2W.
+### First you need to install the operating system you need into RaspberryPi, this is the [tutorial](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system), when you choose device, select Raspberry Pi Zero 2W.  
+### There is a mini-HDMI port on the top side of HackberryPi. You can connect it with another screen. You can use the following commands to disable/enable the displaying.
+
+```sh
+vcgencmd display_power 0
+vcgencmd display_power 1
+```
 # Raspberry Pi OS after 04/04/2022 or later  
 
 Add the following line in `/boot/config.txt` in your TF card  
