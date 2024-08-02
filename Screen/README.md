@@ -1,4 +1,4 @@
-# This page will tell you the ways to install the display driver in different operating system  
+# This page will tell you the ways to install the display driver in different operating system and some using tips of the display  
 ### First you need to install the operating system you need into RaspberryPi, this is the [tutorial](https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system), when you choose device, select Raspberry Pi Zero 2W.  
 ### There is a mini-HDMI port on the top side of HackberryPi. You can connect it with another screen. You can use the following commands to disable/enable the displaying.
 
