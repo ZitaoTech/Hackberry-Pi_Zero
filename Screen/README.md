@@ -6,6 +6,7 @@
 vcgencmd display_power 0
 vcgencmd display_power 1
 ```
+### The default backlight brightness of the display after you turn HackberryPi on would be 50%. There is a physical button of the top side of HackberryPi. You can single press it to toggle the backlight of the display. You can also adjust the backlight brightness by long pressing the button: If you first long press the button the backlight brightness will slowly increase to 100%, if you now release the button and long press the button again, the backlight brightness of the display will slowly drop to 10%.  
 # Raspberry Pi OS after 04/04/2022 or later  
 
 Add the following line in `/boot/config.txt` in your TF card  
