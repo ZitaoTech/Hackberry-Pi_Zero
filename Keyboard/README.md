@@ -18,3 +18,8 @@ Then connect yor computer with Hackberry and in menu **file**->**Load saved layo
 
 ### Layer 2:
 ![Keymap_Layer2](https://github.com/user-attachments/assets/221d4d2e-35c9-4349-9c26-a69c27b6d6a1)
+
+## Other Features
+When holding Ctrl, mouse dpix2  
+When holding Alt, mouse dpi/2  
+When capslock, The trackpadbacklight will be turned on for Q10 version, and the backlight of the top row keys will be turned on for Q20 version. meanwhile the mouse will work as scroll wheel, you can browse a file quickly. 
