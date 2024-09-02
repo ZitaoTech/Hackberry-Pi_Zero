@@ -21,3 +21,6 @@ If you want to undo this, you can simply delete the i2c-1 symlink file by typing
 ``` sh
 sudo rm /dev/i2c-1
 ```
+
+One example about using this I2C port:  
+[hack-environment-monitor](https://github.com/chriswilson2020/hack-environment-monitor/tree/main)
