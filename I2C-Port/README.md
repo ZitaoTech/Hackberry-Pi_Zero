@@ -1,4 +1,5 @@
- First, don't enable I2C interface in raspi-config. Because the default I2C pins are used by the display. If you enable the I2C interface, the screen will be black. You need to connect HackberryPi to another display with an HDMI cable to disable the I2C interface to make it back.
+## How to use the I2C port on HackberryPi
+First, don't enable I2C interface in raspi-config. Because the default I2C pins are used by the display. If you enable the I2C interface, the screen will be black. You need to connect HackberryPi to another display with an HDMI cable to disable the I2C interface to make it back.
 
 The I2C pins on HackberryPi are: GPIO10 for I2C_SDA and GPIO11 for I2C_SCL  
 
@@ -22,5 +23,6 @@ If you want to undo this, you can simply delete the i2c-1 symlink file by typing
 sudo rm /dev/i2c-1
 ```
 
-One example about using this I2C port:  
+
+## One example about using this I2C port:  
 [hack-environment-monitor](https://github.com/chriswilson2020/hack-environment-monitor/tree/main)
