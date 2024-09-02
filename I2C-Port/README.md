@@ -15,3 +15,8 @@ sudo i2cdetect -y 1
 to check if the sensor is available.
 
 ![image](https://github.com/user-attachments/assets/f8abfa25-cc58-4e8e-89c7-4e42de650e48)
+
+If you want to undo this, you can simply delete the i2c-1 symlink file by typing in the terminal:
+``` sh
+sudo rm /dev/i2c-1
+```
