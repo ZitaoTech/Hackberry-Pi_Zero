@@ -10,6 +10,6 @@ And there is another feature about the USB HUB controller chip SL2.1A, it will d
 
 
 ### Solution for this: Plug a tiny USB device like a supertiny USB Stick![image](https://github.com/user-attachments/assets/a56c4bf0-11f3-4b48-b9f9-0af32b226f6f)
- into one of the 3 USB ports of HackberryPi so IP5306 can continuously output the 5V.  
+### into one of the 3 USB ports of HackberryPi so IP5306 can continuously output the 5V.  
 
 ### Also important to note: Once you plug the USB device, the IP5306 will continuously output 5V, you need to double tap the red key to cut the 5V power after you shut down HackberryPi.  
