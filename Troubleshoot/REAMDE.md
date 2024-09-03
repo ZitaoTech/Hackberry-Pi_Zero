@@ -9,6 +9,7 @@ That means, once you press the red key next to the power switch, the USB HUB Con
 And there is another feature about the USB HUB controller chip SL2.1A, it will draw about 60 ma current when it's connected to a USB Host and a USB Slave. Once you shut down the Pi and SL2.1A will lose the USB Host, now it draws only 20 ma current. So want I want: once you press the red key, SL2.1A draws more current than the minium load current of IP5306, and the 5V will be continuously genereted. But the fact is that there is a big difference of this value between different IP5306, some has 45ma, and some has more than 70ma. Which can cause the shut down of the 5V.  
 
 
-### Solution for this: Plug a tiny USB device like a supertiny USB Stick into one of the 3 USB ports of HackberryPi so IP5306 can continuously output the 5V.  
+### Solution for this: Plug a tiny USB device like a supertiny USB Stick![image](https://github.com/user-attachments/assets/a56c4bf0-11f3-4b48-b9f9-0af32b226f6f)
+ into one of the 3 USB ports of HackberryPi so IP5306 can continuously output the 5V.  
 
 ### Also important to note: Once you plug the USB device, the IP5306 will continuously output 5V, you need to double tap the red key to cut the 5V power after you shut down HackberryPi.  
