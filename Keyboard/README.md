@@ -22,4 +22,6 @@ Then connect yor computer with Hackberry and in menu **file**->**Load saved layo
 ## Other Features
 When holding Ctrl, mouse dpix2  
 When holding Alt, mouse dpi/2  
-When capslock, The trackpadbacklight will be turned on for Q10 version, and the backlight of the top row keys will be turned on for Q20 version. meanwhile the mouse will work as scroll wheel, you can browse a file quickly. 
+When capslock, The trackpadbacklight will be turned on for Q10 version, and the backlight of the top row keys will be turned on for Q20 version. meanwhile the mouse will work as scroll wheel, you can browse a file quickly.  
+
+The backlight of the keyboard will be turned off if you don't type anything for 30 seconds.  
