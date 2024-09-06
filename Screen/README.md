@@ -66,3 +66,8 @@ Download the `hyperpixel4.dtbo`file in this github page
 Put the `hyperpixel4.dtbo`file into `/boot/overlays`folder  
 Now you can insert the TF card in to the slot and your HackberryPi will run RetroPi OS on the screen.  
 ![RetroPiFoto](https://github.com/user-attachments/assets/8cc5cef6-7c7e-4d3f-ad7a-3357ff6c9ce3)
+
+# DietPi  
+DietPi is an extremely lightweight Debian OS, highly optimised for minimal CPU and RAM resource usage. The instruction is made by [Bjoern Franck](https://github.com/bjoernfranck)  
+You can view the tutorial at this [page](https://github.com/bjoernfranck/HackberryPi/tree/main/DietPi)  
+![image](https://github.com/user-attachments/assets/31e83c06-085c-4b7a-b38f-0236433038fb)
