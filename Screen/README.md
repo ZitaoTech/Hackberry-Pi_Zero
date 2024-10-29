@@ -16,7 +16,11 @@ dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ``` 
 And the `config.txt` file will look like this:  
 ![image](https://github.com/user-attachments/assets/33139e0d-2477-4732-8ff5-a3e2bce9d383)  
-Now you can insert the TF card in to the slot and your HackberryPi will run Raspberry Pi OS on the screen.  
+Follow the step:
+Insert the TF card in to the slot  
+Turn on the HackberryPi, the screen will be black, wait until the white led on top stop blinking.  
+Turn off the HackberryPi and reboot.  
+And then your HackberryPi will run Raspberry Pi OS on the screen.  
 ![RaspberryPiOSfoto](https://github.com/user-attachments/assets/faff7b6f-a20e-45b8-801a-6f6dfe51b122)
 
 # Kali Linux or Raspberry Pi OS before 04/04/2022   
