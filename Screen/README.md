@@ -16,7 +16,7 @@ dtoverlay=vc4-kms-dpi-hyperpixel4sq
 ``` 
 And the `config.txt` file will look like this:  
 ![image](https://github.com/user-attachments/assets/33139e0d-2477-4732-8ff5-a3e2bce9d383)  
-Follow the step:
+Follow the steps:  
 Insert the TF card in to the slot  
 Turn on the HackberryPi, the screen will be black, wait until the white led on top stop blinking.  
 Turn off the HackberryPi and reboot.  
