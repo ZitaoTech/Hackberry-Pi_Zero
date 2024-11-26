@@ -75,3 +75,13 @@ Now you can insert the TF card in to the slot and your HackberryPi will run Retr
 DietPi is an extremely lightweight Debian OS, highly optimised for minimal CPU and RAM resource usage. The instruction is made by [Bjoern Franck](https://github.com/bjoernfranck)  
 You can view the tutorial at this [page](https://github.com/bjoernfranck/HackberryPi/tree/main/DietPi)  
 ![image](https://github.com/user-attachments/assets/31e83c06-085c-4b7a-b38f-0236433038fb)
+
+# Troubleshoot  
+![image](https://github.com/user-attachments/assets/72e6eebb-46fd-4443-887c-c18b7fc35222)
+You might found your display flickering or flashing like this on the picture. This happens when the display driver is powered but no image signal coming through.  
+It can usually happen when you flash a new SD card or wake up from screen blanking.  
+The display can recover itsself when you put the device running like 1 hour, but you need to disable screen blanking first.  
+Here are steps you need to do to disable screen blanking:  
+[On RaspberryPi OS](https://github.com/raspberrypi/documentation/blob/develop/documentation/asciidoc/computers/configuration/screensaver.adoc)  
+[On Kali](https://superuser.com/questions/1185747/how-do-i-disable-the-screensaver-lock-in-kali-linux)  
+
