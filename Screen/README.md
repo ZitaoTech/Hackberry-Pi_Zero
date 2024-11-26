@@ -77,7 +77,7 @@ You can view the tutorial at this [page](https://github.com/bjoernfranck/Hackber
 ![image](https://github.com/user-attachments/assets/31e83c06-085c-4b7a-b38f-0236433038fb)
 
 # Troubleshoot  
-![image](https://github.com/user-attachments/assets/72e6eebb-46fd-4443-887c-c18b7fc35222)
+![image](https://github.com/user-attachments/assets/72e6eebb-46fd-4443-887c-c18b7fc35222)  
 You might found your display flickering or flashing like this on the picture. This happens when the display driver is powered but no image signal coming through.  
 It can usually happen when you flash a new SD card or wake up from screen blanking.  
 The display can recover itsself when you put the device running like 1 hour, but you need to disable screen blanking first.  
